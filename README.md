@@ -6,7 +6,7 @@ Eu me chamo Leonardo Gusmão.
 🕹️Técnico em Programação para Jogos Digitais pela Escola Técnica Parque da Juventude, em São Paulo.
 
 Estudo regularmente a linguagem Python, com mais de 110 exercícios completos, tendo recentemente concluído o Terceiro Mundo do Curso de Python da plataforma Curso em Vídeo.
-Em Python, tenho experiência com condições, estruturas de repetição, uso de módulos e bibliotecas externas, funções e modularização de projetos internos.
+Em Python, tenho experiência com condições, estruturas de repetição, uso de módulos e bibliotecas externas, funções e modularização de projetos internos em sistemas.
 
 Projeto favorito: ORIGOMNITE - Demo de um jogo realizada como conclusão do Curso Técnico, durante o Ensino Médio.
 
