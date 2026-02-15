@@ -10,6 +10,8 @@ Em Python, tenho experiência com condições, estruturas de repetição, uso de
 
 Projeto favorito: [ORIGOMNITE](https://github.com/LeonardoGusmaoM/ORIGOMNITE) - Demo de um jogo realizada em grupo como conclusão do Curso Técnico, durante o Ensino Médio, por meio da game engine Godot.
 
+Atualmente: estudando Orientação a Objetos.
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
