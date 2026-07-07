@@ -1,7 +1,6 @@
-Olá! 💪
-Eu me chamo Leonardo Gusmão.
+Olá
 
-⚙️ Desde 2026, sou graduando em Engenharia de Computação na Escola Politécnica, pela Universidade de São Paulo.
+⚙️ Graduando em Engenharia de Computação na Escola Politécnica, pela Universidade de São Paulo.
 
 🕹️Técnico em Programação para Jogos Digitais pela Escola Técnica Parque da Juventude, em São Paulo.
 
